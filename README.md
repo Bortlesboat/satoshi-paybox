@@ -2,6 +2,8 @@
 
 A PayBox marketplace plugin built for MoonPay Hackathons, PayBox Chapter 1 (Oct 16–17, 2026). Category: Consumer finance.
 
+**Demo video:** https://x.com/BTCOrangeCoin/status/2111539480066973916
+
 Ask your agent "should I send this Bitcoin now?" and Satoshi reads the live mempool, prices every fee tier in sats and dollars, and answers **SEND NOW** or **WAIT** with the exact savings from waiting. When on-chain fees make a small payment silly, the agent can settle it as Bitcoin on Base (cbBTC) instead, with one passkey tap in PayBox.
 
 Satoshi never holds money and never signs. The one money tool returns an unsigned proposal that PayBox validates, simulates, and asks the user to approve.
